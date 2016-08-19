@@ -4,12 +4,6 @@
   
     
     <entry>
-      <title><![CDATA[init]]></title>
-      <url>http://pognecul.com/2016/08/05/init/</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[hello world]]></title>
       <url>http://pognecul.com/2016/08/05/hello-world/</url>
       <content type="html"><![CDATA[<h2 id="welecome"><a href="#welecome" class="headerlink" title="welecome"></a>welecome</h2><p>欢迎来到我的blog,这是一个新的开始！</p>
