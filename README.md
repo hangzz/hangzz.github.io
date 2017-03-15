@@ -1,5 +1,5 @@
  ### blog
  
- * [github + hexo](pognecul.github.io)
- * github + issues 
+ * [github + hexo](http://pognecul.com/)
+ * [github + issues](https://github.com/pognecul/pognecul.github.io/issues) 
  
